@@ -1,0 +1,13 @@
+[16-Nov-2013 00:33:18 America/New_York] PHP Parse error:  syntax error, unexpected '"' in /home/kabantay/public_html/index.php on line 26
+[16-Nov-2013 02:11:39 America/New_York] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kabantay/public_html/index.php on line 229
+[16-Nov-2013 02:11:39 America/New_York] PHP Warning:  include(footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kabantay/public_html/index.php on line 229
+[16-Nov-2013 02:11:39 America/New_York] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kabantay/public_html/index.php on line 229
+[16-Nov-2013 02:35:36 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 154
+[16-Nov-2013 02:36:02 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 154
+[16-Nov-2013 02:51:05 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 156
+[16-Nov-2013 02:51:47 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 153
+[16-Nov-2013 02:51:51 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 153
+[16-Nov-2013 03:05:30 America/New_York] PHP Parse error:  syntax error, unexpected T_DNUMBER in /home/kabantay/public_html/index.php on line 84
+[16-Nov-2013 03:05:57 America/New_York] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/kabantay/public_html/index.php on line 84
+[16-Nov-2013 03:09:17 America/New_York] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/kabantay/public_html/index.php on line 84
+[16-Nov-2013 03:11:12 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/kabantay/public_html/index.php on line 156
